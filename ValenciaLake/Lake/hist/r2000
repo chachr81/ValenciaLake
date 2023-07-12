@@ -1,0 +1,10 @@
+Sun Jul 09 02:19:27 2023
+r2000
+Lake
+chris
+raster
+Vector Map: area2000@Lake
+Original scale from vector map: 1:1
+generado por v.to.rast
+v.to.rast input="area2000@Lake" layer="1" type="point,line,area" out\
+put="r2000" use="val" value=1 memory=300

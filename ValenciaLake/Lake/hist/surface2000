@@ -1,0 +1,9 @@
+Sun Jul 09 02:23:39 2023
+surface2000
+Lake
+chris
+raster
+
+
+generado por r.mapcalc
+if(r2000, mde_integrado)

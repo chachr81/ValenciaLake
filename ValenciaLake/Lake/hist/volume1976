@@ -1,0 +1,10 @@
+Sun Jul 09 01:48:11 2023
+volume1976
+Lake
+chris
+raster
+
+
+generado por r.lake
+r.lake --overwrite elevation="surface1976@Lake" water_level=380.35 l\
+ake="volume1976" seed="r1976@Lake"

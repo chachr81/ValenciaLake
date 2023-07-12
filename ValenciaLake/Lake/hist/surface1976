@@ -1,0 +1,9 @@
+Sun Jul 09 01:47:30 2023
+surface1976
+Lake
+chris
+raster
+
+
+generado por r.mapcalc
+if(r1976, mde_integrado)

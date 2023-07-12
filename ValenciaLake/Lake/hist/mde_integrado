@@ -1,0 +1,10 @@
+Sat Jul 08 23:25:10 2023
+mde_integrado
+Lake
+chris
+raster
+
+
+generado por r.in.gdal
+r.in.gdal input="C:\Workspace\LagoValencia\raster\modelo_integrado.t\
+if" output="mde_integrado" memory=300 offset=0 num_digits=0

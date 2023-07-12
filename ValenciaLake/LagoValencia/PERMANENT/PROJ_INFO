@@ -1,0 +1,6 @@
+name: REGVEN / UTM zone 19N
+ellps: grs80
+proj: utm
+zone: 19
+towgs84: 0,0,0,0,0,0,0
+no_defs: defined

@@ -1,0 +1,10 @@
+Sun Jul 09 16:46:10 2023
+volume2014
+Lake
+chris
+raster
+
+
+generado por r.lake
+r.lake elevation="surface2014@Lake" water_level=408,75 lake="volume2\
+014" seed="r2014@Lake"

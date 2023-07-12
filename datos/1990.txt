@@ -1,0 +1,2 @@
+Dataset, Plane_Height, Reference, Z_Factor, Area_2D, Area_3D, Volume
+..LagoValencia.gdb\mde_integrado, 384.77, BELOW, 1.000000,  350797894.594, 350864557.21558, 8226599459.3583

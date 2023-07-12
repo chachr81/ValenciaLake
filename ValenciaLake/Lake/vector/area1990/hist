@@ -1,0 +1,9 @@
+COMMAND: v.in.ogr -o input="C:/Workspace/LagoValencia/qgis/1990.shp" output="r1990" min_area=0.0001 type="" snap=-1
+GISDBASE: C:/Workspace/LagoValencia
+LOCATION: ValenciaLake MAPSET: Lake USER: chris DATE: Sun Jul 09 02:13:23 2023
+-----------------------------------------------------
+1 polígonos de entrada
+Área total: 3.52098E+08 (19 areas)
+Área solapada: 0 (0 areas)
+Área sin categoría: 3.195E+06 (18 areas)
+---------------------------------------------------------------------------------
