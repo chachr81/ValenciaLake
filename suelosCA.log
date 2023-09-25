@@ -1,0 +1,126 @@
+2023-09-18 11:45:40|   0.0|  0.0|INFORM|Current FME version: FME 2022.2.1.0 (20221202 - Build 22776 - WIN64)
+2023-09-18 11:45:40|   0.0|  0.0|INFORM|FME_HOME is 'C:\Program Files\ArcGIS\Data Interoperability for ArcGIS Pro\'
+2023-09-18 11:45:40|   0.0|  0.0|INFORM|Data Interoperability (node locked-crc)
+2023-09-18 11:45:40|   0.0|  0.0|INFORM|Permanent License.
+2023-09-18 11:45:40|   0.0|  0.0|INFORM|Machine host name is: MiPC
+2023-09-18 11:45:40|   0.0|  0.0|INFORM|OS Locale Name     : es_CL
+2023-09-18 11:45:40|   0.0|  0.0|INFORM|OS Locale Encoding : windows-1252
+2023-09-18 11:45:40|   0.0|  0.0|INFORM|Process Encoding   : UTF-8
+2023-09-18 11:45:40|   0.0|  0.0|INFORM|FME API version: '4.0 20220615'
+2023-09-18 11:45:40|   0.0|  0.0|INFORM|FME Configuration: FME_BASE is 'yes'
+2023-09-18 11:45:40|   0.0|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'C:\Workspace\LagoValencia/'
+2023-09-18 11:45:40|   0.0|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'suelosCA.fmw'
+2023-09-18 11:45:40|   0.0|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2022.2.1.0'
+2023-09-18 11:45:40|   0.0|  0.0|INFORM|Operating System: Microsoft Windows 11 64-bit  (Build 22621)
+2023-09-18 11:45:40|   0.0|  0.0|INFORM|FME Platform: WIN64
+2023-09-18 11:45:40|   0.0|  0.0|INFORM|System Status: 60.78 GB of disk space available in the FME temporary folder (C:\Users\chris\AppData\Local\Temp\ArcGISProTemp18188\wbrun_1695046973090_22172\fmetmp_b)
+2023-09-18 11:45:40|   0.0|  0.0|INFORM|System Status: 31.42 GB of physical memory available
+2023-09-18 11:45:40|   0.0|  0.0|INFORM|System Status: 125.68 GB of virtual memory available
+2023-09-18 11:45:40|   0.0|  0.0|INFORM|START - ProcessID: 23380, peak process memory usage: 86476 kB, current process memory usage: 86476 kB
+2023-09-18 11:45:40|   0.0|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\ArcGIS\Data Interoperability for ArcGIS Pro\fme.exe' `C:/Workspace/LagoValencia\wb-xlate-1695048334444_22172' `LOG_STANDARDOUT' `YES' `LOG_TIMINGS' `YES' `LogCountServerName' `51130' `LOG_STANDARDOUT' `No' `WORKBENCH_LOG_SERVER' `50764'
+2023-09-18 11:45:40|   0.0|  0.0|INFORM|FME Configuration: Connection Storage: 'C:\Users\chris\AppData\Roaming\Safe Software\FME\'
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|Shared folders for formats are : C:\Program Files\ArcGIS\Data Interoperability for ArcGIS Pro\datasources;C:\Users\chris\OneDrive\Documentos\FME\Formats
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|Shared folders for transformers are : C:\Users\chris\AppData\Roaming\Safe Software\FME\Packages\22776-win64\transformers;C:\Program Files\ArcGIS\Data Interoperability for ArcGIS Pro\transformers
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|Shared folders for coordinate systems are : C:\Users\chris\OneDrive\Documentos\FME\CoordinateSystems
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|Shared folders for coordinate system exceptions are : C:\Users\chris\OneDrive\Documentos\FME\CoordinateSystemExceptions
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|Shared folders for coordinate system grid overrides are : C:\Users\chris\OneDrive\Documentos\FME\CoordinateSystemGridOverrides
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : C:\Users\chris\OneDrive\Documentos\FME\CsmapTransformationExceptions
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|Shared folders for transformer categories are : C:\Users\chris\OneDrive\Documentos\FME\TransformerCategories
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|FME Configuration: Reader Keyword is `MULTI_READER'
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|FME Configuration: Reader type is `MULTI_READER'
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|FME Configuration: Current working folder is `C:\Workspace\LagoValencia'
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\chris\AppData\Local\Temp\ArcGISProTemp18188\wbrun_1695046973090_22172\fmetmp_b', set from environment variable `FME_TEMP'
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|FME Configuration: Cache folder is 'C:\Users\chris\AppData\Local\Temp\ArcGISProTemp18188'
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\ArcGIS\Data Interoperability for ArcGIS Pro\'
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|FME Configuration: Start freeing memory when the process exceeds 94.26 GB
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|FME Configuration: Stop freeing memory when the process is below 70.69 GB
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|Creating writer for format: 
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|Creating reader for format: 
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|Using Multi Reader with keyword `MULTI_READER' to read multiple datasets
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|Using MultiWriter with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\ArcGIS\Data Interoperability for ArcGIS Pro\plugins/LogCount_func.dll'
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (4.0 20220615)
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|Emptying factory pipeline
+2023-09-18 11:45:41|   0.0|  0.0|STATS |Router and Unexpected Input Remover (RoutingFactory): Tested 0 input feature(s), wrote 0 output feature(s): 0 matched merge filters, 0 were routed to output, 0 could not be routed.
+2023-09-18 11:45:41|   0.0|  0.0|STATS |Unwanted Router Input Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2023-09-18 11:45:41|   0.0|  0.0|STATS |UCPOTENC_GEODATABASE_FILE_2 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2023-09-18 11:45:41|   0.0|  0.0|STATS |mapa_suelo_regven_GEODATABASE_FILE_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2023-09-18 11:45:41|   0.0|  0.0|STATS |UCATRIBU_GEODATABASE_FILE_3 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2023-09-18 11:45:41|   0.0|  0.0|STATS |Restoring 1 feature(s) from FME feature store file `C:\Users\chris\AppData\Local\Temp\ArcGISProTemp18188\wb-cache-suelosCA-ditTpw\Main_FeatureMerger_2 -1 8 fo 0 MERGED  0  ca9da37a4780c33bee44c18aa1bcf239c684a4f7.ffs'
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|FFS writer: Writing 7375 feature(s) to file 'C:\Users\chris\AppData\Local\Temp\ArcGISProTemp18188\wb-cache-suelosCA-ditTpw\Main_AttributeManager -1 11 fo 0 OUTPUT  0  6d1405bc56b47260f0f2f35476f69fbec3adfaa7.fts'
+2023-09-18 11:45:41|   0.0|  0.0|INFORM|Spatial Index: Adding 7375 features
+2023-09-18 11:45:41|   0.2|  0.2|STATS |Destination Feature Type Routing Correlator (RoutingFactory): Tested 7375 input feature(s), wrote 7375 output feature(s): 0 matched merge filters, 7375 were routed to output, 0 could not be routed.
+2023-09-18 11:45:41|   0.2|  0.0|STATS |Final Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2023-09-18 11:45:41|   0.2|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': Started outputting features
+2023-09-18 11:45:41|   0.2|  0.0|INFORM|Creating writer for format: Esri Geodatabase (File Geodb)
+2023-09-18 11:45:41|   0.2|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `GEODATABASE_FILE'
+2023-09-18 11:45:41|   0.2|  0.0|INFORM|Loaded module 'GEODATABASE_FILE' from file 'C:\Program Files\ArcGIS\Data Interoperability for ArcGIS Pro\plugins/..\geodatabase9.dll'
+2023-09-18 11:45:41|   0.2|  0.0|INFORM|FME API version of module '..\geodatabase9' matches current internal version (4.0 20220615)
+2023-09-18 11:45:41|   0.2|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2023-09-18 11:45:41|   0.2|  0.0|INFORM|Writer `GEODATABASE_FILE_4' of type `GEODATABASE_FILE' using group definition keyword `GEODATABASE_FILE_4_DEF'
+2023-09-18 11:45:41|   0.2|  0.0|INFORM|An ArcGIS license is already checked out. The product checked out is 'Advanced'
+2023-09-18 11:45:41|   0.2|  0.0|INFORM|Installed ArcGIS version is '3.1.3'
+2023-09-18 11:45:41|   0.2|  0.0|INFORM|Connected to the File Geodatabase at 'C:\Workspace\LagoValencia\LagoValencia.gdb'
+2023-09-18 11:45:41|   0.2|  0.0|INFORM|File Geodatabase release: '10.0'
+2023-09-18 11:45:41|   0.2|  0.0|INFORM|Fast deletes enabled
+2023-09-18 11:45:41|   0.2|  0.0|INFORM|The 'HAS_Z_VALUES' keyword is set to 'AUTO_DETECT'. With the exception of MultiPatch feature classes, the dimensionality of new feature classes will be based on the first feature written to the feature class. (Features with no geometry are considered 2D)
+2023-09-18 11:45:41|   0.2|  0.0|INFORM|A default z-value of '0' will be used for all 3D features where z-values are not provided
+2023-09-18 11:45:41|   0.2|  0.0|INFORM|Esri Geodatabase Writer: Not simplifying geometries being written
+2023-09-18 11:45:41|   0.2|  0.0|INFORM|Transactions are being used by the Esri Geodatabase Writer
+2023-09-18 11:45:41|   0.2|  0.0|INFORM|GEODATABASE_FILE writer: Splitting bulk features into individual features
+2023-09-18 11:45:41|   0.2|  0.0|WARN  |User field name 'OBJECTID' conflicts with value of feature type parameter 'Object ID Field' ('OBJECTID') for table/feature class 'mapasuelos_attr_poten'.  User field will be ignored
+2023-09-18 11:45:42|   0.2|  0.0|INFORM|Esri Geodatabase Writer: Creating feature type `mapasuelos_attr_poten'
+2023-09-18 11:45:42|   0.4|  0.2|INFORM|Esri Geodatabase Writer: The field 'OBJECTID' in feature type 'mapasuelos_attr_poten' will not be updated since it is not editable
+2023-09-18 11:45:42|   0.4|  0.0|INFORM|Esri Geodatabase Writer: The field 'SHAPE_Length' in feature type 'mapasuelos_attr_poten' will not be updated since it is not editable
+2023-09-18 11:45:42|   0.4|  0.0|INFORM|Esri Geodatabase Writer: The field 'SHAPE_Area' in feature type 'mapasuelos_attr_poten' will not be updated since it is not editable
+2023-09-18 11:45:42|   0.9|  0.5|INFORM|Transaction #1 was successfully committed
+2023-09-18 11:45:43|   1.4|  0.5|INFORM|Transaction #2 was successfully committed
+2023-09-18 11:45:43|   1.9|  0.5|INFORM|Transaction #3 was successfully committed
+2023-09-18 11:45:44|   2.4|  0.5|INFORM|Transaction #4 was successfully committed
+2023-09-18 11:45:44|   2.9|  0.5|INFORM|Transaction #5 was successfully committed
+2023-09-18 11:45:45|   3.4|  0.5|INFORM|Transaction #6 was successfully committed
+2023-09-18 11:45:45|   3.9|  0.5|INFORM|Transaction #7 was successfully committed
+2023-09-18 11:45:45|   4.1|  0.2|INFORM|MULTI_WRITER: multi_writer_id `1': Writing feature 7000 
+2023-09-18 11:45:45|   4.1|  0.0|STATS |GeodatabaseRelationshipFeaturesPipeline::GeodatabaseRelationshipFeatures (SortFactory): Finished sorting a total of 0 features.
+2023-09-18 11:45:45|   4.1|  0.0|INFORM|Transaction #8 (final transaction) was successfully committed
+2023-09-18 11:45:46|   4.1|  0.0|INFORM|Closing the Esri Geodatabase writer
+2023-09-18 11:45:46|   4.1|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-09-18 11:45:46|   4.1|  0.0|INFORM|Feature output statistics for `GEODATABASE_FILE' writer using keyword `GEODATABASE_FILE_4':
+2023-09-18 11:45:46|   4.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-09-18 11:45:46|   4.1|  0.0|STATS |                               Features Written
+2023-09-18 11:45:46|   4.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-09-18 11:45:46|   4.1|  0.0|STATS |mapasuelos_attr_poten                                                     7375
+2023-09-18 11:45:46|   4.1|  0.0|STATS |==============================================================================
+2023-09-18 11:45:46|   4.1|  0.0|STATS |Total Features Written                                                    7375
+2023-09-18 11:45:46|   4.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-09-18 11:45:46|   4.1|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': done writing 7375 feature(s) 
+2023-09-18 11:45:46|   4.1|  0.0|INFORM|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2023-09-18 11:45:46|   4.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-09-18 11:45:46|   4.1|  0.0|STATS |                            Features Read Summary
+2023-09-18 11:45:46|   4.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-09-18 11:45:46|   4.1|  0.0|STATS |==============================================================================
+2023-09-18 11:45:46|   4.1|  0.0|STATS |Total Features Read                                                          0
+2023-09-18 11:45:46|   4.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-09-18 11:45:46|   4.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-09-18 11:45:46|   4.1|  0.0|STATS |                           Features Written Summary
+2023-09-18 11:45:46|   4.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-09-18 11:45:46|   4.1|  0.0|STATS |mapasuelos_attr_poten                                                     7375
+2023-09-18 11:45:46|   4.1|  0.0|STATS |==============================================================================
+2023-09-18 11:45:46|   4.1|  0.0|STATS |Total Features Written                                                    7375
+2023-09-18 11:45:46|   4.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-09-18 11:45:46|   4.1|  0.0|WARN  |-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+2023-09-18 11:45:46|   4.1|  0.0|WARN  |-~                                                                             ~-
+2023-09-18 11:45:46|   4.1|  0.0|WARN  |-~    Feature caches have been recorded at every stage of the translation.     ~-
+2023-09-18 11:45:46|   4.1|  0.0|WARN  |-~                      To inspect the recorded features,                      ~-
+2023-09-18 11:45:46|   4.1|  0.0|WARN  |-~              click the feature cache icons next to the ports.               ~-
+2023-09-18 11:45:46|   4.1|  0.0|WARN  |-~                                                                             ~-
+2023-09-18 11:45:46|   4.1|  0.0|WARN  |-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+2023-09-18 11:45:46|   4.1|  0.0|INFORM|Translation was SUCCESSFUL with 8 warning(s) (7375 feature(s) output)
+2023-09-18 11:45:46|   4.1|  0.0|INFORM|FME Session Duration: 5.1 seconds. (CPU: 3.8s user, 0.3s system)
+2023-09-18 11:45:46|   4.1|  0.0|INFORM|END - ProcessID: 23380, peak process memory usage: 211400 kB, current process memory usage: 179444 kB
