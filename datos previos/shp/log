@@ -1,0 +1,2 @@
+201502191048   0     2     0user-pc C:\WORKSP~1\TESISC~1\shp\point_z.shp = GRIDPOINTSHAPE(C:\WorkSpace\TESIS CHRISTIAN\raster batimetria\batim1.img)
+201601262330   0     1     0Christian C:\WORKSP~1\TESISC~1\shp\1974.shp = CONTOUR(C:\WorkSpace\TESIS CHRISTIAN\BATIMETRIA\mde_pru10,  LIST, 403.06)

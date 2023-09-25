@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="es"><Esri><CreaDate>20150219</CreaDate><CreaTime>13530500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><ArcGISstyle>XTools Pro Metadata</ArcGISstyle><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.0\ArcToolbox\Toolboxes\3D Analyst Tools.tbx\RasterToMultipoint" Date="20150219" Time="135305">RasterToMultipoint batim1.img "C:\WorkSpace\TESIS CHRISTIAN\shp\point_z1.shp" # NO_THIN MIN 1</Process></lineage></DataProperties></Esri></metadata>

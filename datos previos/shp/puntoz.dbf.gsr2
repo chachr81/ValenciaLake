@@ -1,0 +1,25 @@
+Golden Software Cartographic Reference Information : Version 2.00
+System Type : GCS
+System Identification : Projected Systems|UTM|WGS84|WGS84 UTM zone 19N
+  Comment : System Identification strings are subject to change at any time.
+System GCS Token : PCS_WORLD_GEODETIC_SYSTEM_1984_UTM_ZONE_19N
+System POSC/EPSG Code : 32619
+Projection Method : Universal Transverse Mercator (UTM)
+Projection Ellipsoid Type : WGS 84
+Projection Ellipsoid GCS Token : ELLIPSOID_WGS_84
+Projection Ellipsoid Radius (meters) : 6378137
+Projection Ellipsoid Flattening : 0.00335281066474748
+Projection Scale : 1
+Projection Central Scale : 0.9996
+Projection False Easting (meters) : 500000
+Projection False Northing (meters) : 0
+Projection Lon0 (degrees) : -69
+Projection Lat0 (degrees) : 0
+Projection In Southern Hemisphere (UTM only) : false
+Datum Name : World Geodetic System 1984
+Datum GCS Token : DATUM_WGS84
+Datum Method : None
+Datum Ellipsoid Type : WGS 84
+Datum Ellipsoid GCS Token : ELLIPSOID_WGS_84
+Datum Ellipsoid Radius (meters) : 6378137
+Datum Ellipsoid Flattening : 0.00335281066474748
